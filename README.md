@@ -4,7 +4,7 @@
 <img alt="logo" width="400" src="https://tse2.mm.bing.net/th?id=OIP.mUahTQdRR4e4MJLLtJkjbwHaEU&pid=Api&P=0&h=220"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navin0507&label=Profile%20views&color=0e75b6&style=flat" alt="navin0507" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navin0507" alt="navin0507" /></a> </p>
+
 
 - 🔭 I’m currently working on [ShearTime](sheartime.vercel.app)
 
