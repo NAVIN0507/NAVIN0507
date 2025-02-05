@@ -1,10 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
-<h1 align="center">Hi 👋, I'm Navin N</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<img src="/banner.png" alt="navin0507" />
+<h3 align="center">A passionate FullStack developer from India</h3>
 <img alt="logo" width="400" src="https://tse2.mm.bing.net/th?id=OIP.mUahTQdRR4e4MJLLtJkjbwHaEU&pid=Api&P=0&h=220"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navin0507&label=Profile%20views&color=0e75b6&style=flat" alt="navin0507" /> </p>
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=navin0507&label=Profile%20views&color=0e75b6&style=flat" alt="navin0507" /> 
 
 - 🔭 I’m currently working on [ShearTime](sheartime.vercel.app)
 
@@ -13,6 +11,8 @@
 - 💬 Ask me about **Next Js , TailWind CSS**
 
 - 📫 How to reach me **navinofficial2005@gmail.com**
+
+  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
