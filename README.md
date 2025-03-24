@@ -111,7 +111,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=navin0507&show_icons=true&locale=en" alt="Navin's GitHub Stats" />
-</p>
+</p> 
 
 <br> <!-- Added extra space -->
 
