@@ -5,17 +5,14 @@
 ## A passionate Full Stack Developer
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navin0507&label=Profile%20views&color=0e75b6&style=flat" alt="navin0507" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=navin0507" alt="navin0507" />
   </a>
 </p>
 
 ---
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=navin0507&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 ### 🔭 I’m currently working on:
 - [Sheartime](https://sheartime.vercel.app)
 
@@ -46,8 +43,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=navin0507&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navin0507&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=navin0507&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -123,10 +119,6 @@
 ---
 
 ### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navin0507&show_icons=true&locale=en" alt="Navin's GitHub Stats" />
-</p> 
 
 <br> <!-- Added extra space -->
 
