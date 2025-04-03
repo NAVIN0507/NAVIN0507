@@ -4,12 +4,12 @@
   style="background:#121212; padding:10px; border-radius:10px;">
 </p>
 
-## A Passionate Full Stack Developer
-####  I’m currently working on: [Sheartime](https://sheartime.vercel.app)
-#### I’m currently learning: **Redux**, **LYNX**, **Rust**
-####  All of my projects are available at:  [Visit My Portfolio](https://online-resume-navin.vercel.app/)
-####  Ask me about:  **Next JS**, **React**, **TypeScript**, **React Native**, **MySQL**
-####  How to reach me: Email: [navinofficial2005@gmail.com](mailto:navinofficial2005@gmail.com)
+### A Passionate Full Stack Developer
+##### I’m currently learning: **Redux**, **LYNX**, **Rust**
+#####  All of my projects are available at:  [Visit My Portfolio](https://online-resume-navin.vercel.app/)
+#####  Ask me about:  **Next JS**, **React**, **TypeScript**, **React Native**, **MySQL**
+#####  How to reach me: Email: [navinofficial2005@gmail.com](mailto:navinofficial2005@gmail.com)
+##### Check out my NPM package : [NPM](https://www.npmjs.com/settings/navin0507/packages)
 ### 💻 Tech Stack
 | **Frontend** | **Backend** | **Database** | **DevOps & Hosting** | **Mobile Development** | **Tools & Utilities** | **Authentication** | **UI Libraries** | **API & Testing** | **Data Visualization** |
 |-------------|------------|-------------|----------------------|------------------------|----------------------|--------------------|------------------|------------------|----------------------|
