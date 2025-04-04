@@ -10,7 +10,7 @@
 - 💻 **Projects:** [Visit My Portfolio](https://online-resume-navin.vercel.app/)  
 - 💬 **Ask Me About:** Next.js, React, TypeScript, React Native, MySQL  
 - 📩 **Contact:** [navinofficial2005@gmail.com](mailto:navinofficial2005@gmail.com)  
-- 📦 **Check out my NPM Packages:** [NPM](https://www.npmjs.com/package/@navin0507/string-utilsmns)  
+- 📦 **Check out my NPM Packages:** [NPM](https://navin0507npm.vercel.app)  
 ### 💻 Tech Stack
 | **Frontend** | **Backend** | **Database** | **DevOps & Hosting** | **Mobile Development** | **Tools & Utilities** | **Authentication** | **UI Libraries** | **API & Testing** | **Data Visualization** |
 |-------------|------------|-------------|----------------------|------------------------|----------------------|--------------------|------------------|------------------|----------------------|
