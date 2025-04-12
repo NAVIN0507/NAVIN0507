@@ -7,7 +7,7 @@
 ### 🚀 A Passionate Full Stack Developer  
 
 - 📖 **Currently Learning:** Redux, LYNX, Rust  
-- 💻 **Projects:** [See My Projects](https://online-resume-navin.vercel.app/)  
+- 💻 **Projects:** [See My Projects](https://navindev.vercel.app/)  
 - 💬 **Ask Me About:** Next.js, React, TypeScript, React Native, MySQL  
 - 📩 **Contact:** [navinofficial2005@gmail.com](mailto:navinofficial2005@gmail.com)  
 - 📦 **Check out my NPM Packages:** [NPM](https://navin0507npm.vercel.app)  
