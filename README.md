@@ -20,7 +20,7 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=navin0507&theme=dracula&no-frame=false&no-bg=false&margin-w=4&title=Commits,Followers,Repositories)
 ### 📊 GitHub Stats:
-| Stats | Streak | Top Languages |
+| Stats | Streak | Top Languages |  
 |:-:|:-:|:-:|
 | ![Navin's GitHub stats](https://github-readme-stats.vercel.app/api?username=navin0507&show_icons=true&theme=radical) | ![](https://nirzak-streak-stats.vercel.app/?user=navin0507&theme=dracula&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navin0507&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
