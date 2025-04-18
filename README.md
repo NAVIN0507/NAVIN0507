@@ -24,6 +24,7 @@
 |:-:|:-:|:-:|
 | ![](https://github-readme-stats.vercel.app/api?username=navin0507&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) | ![](https://nirzak-streak-stats.vercel.app/?user=navin0507&theme=dracula&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navin0507&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
 
+![Navin's GitHub stats](https://github-readme-stats.vercel.app/api?username=navin0507&show_icons=true&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=navin0507&icon=9&color=12)](https://visitcount.itsvg.in)
 
