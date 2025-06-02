@@ -1,30 +1,51 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&height=50&lines=Hi+there!+I'm+Navin👋;Welcome+to+my+GitHub+Profile!;Full-Stack+Developer🚀" 
-  style="background:#121212; padding:10px; border-radius:10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Navin+👋;Full-Stack+Developer+🚀" />
 </p>
 
-### 🚀 A Passionate Full Stack Developer  
+---
 
-- 📖 **Currently Learning:** Redux, LYNX, Rust  
-- 💻 **Projects:** [See My Projects](https://navindev.vercel.app/)  
-- 💬 **Ask Me About:** Next.js, React, TypeScript, React Native, MySQL  
-- 📩 **Contact:** [navinofficial2005@gmail.com](mailto:navinofficial2005@gmail.com)  
-- 📦 **Check out my NPM Packages:** [NPM](https://navin0507npm.vercel.app)  
-### 💻 Tech Stack
-| **Frontend** | **Backend** | **Database** | **DevOps & Hosting** | **Mobile Development** | **Tools & Utilities** | **Authentication** | **UI Libraries** | **API & Testing** | **Data Visualization** |
-|-------------|------------|-------------|----------------------|------------------------|----------------------|--------------------|------------------|------------------|----------------------|
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) | ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) |
-| ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) |  | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | | |
-| ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) | ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | | | | | | | |
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=navin0507&theme=dracula&no-frame=false&no-bg=false&margin-w=4&title=Commits,Followers,Repositories)
-### 📊 GitHub Stats:
-| Stats | Streak | Top Languages |  
-|:-:|:-:|:-:|
-| ![Navin's GitHub stats](https://github-readme-stats.vercel.app/api?username=navin0507&show_icons=true&theme=radical) | ![](https://nirzak-streak-stats.vercel.app/?user=navin0507&theme=dracula&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=navin0507&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+### 👋 About Me
+
+I'm **Navin N**, a passionate Full Stack Developer with experience in building web and mobile applications using the MERN stack. I love learning new technologies like AI, Python, and MCP, and I'm always looking to create clean, scalable solutions.
+
+---
+
+### 💻 Skills
+
+### 💻 Skills
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" /></td>
+  </tr>
+</table>
 
 
+---
 
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navin0507&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://streak-stats.demolab.com?user=navin0507&theme=tokyonight&hide_border=false" width="400" />
+</p>
 
+---
+
+### 📫 Contact
+
+- 📧 [navinofficial2005@gmail.com](mailto:navinofficial2005@gmail.com)  
+- 🌐 [Portfolio](https://navindev.vercel.app)
