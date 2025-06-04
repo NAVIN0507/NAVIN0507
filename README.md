@@ -18,95 +18,108 @@ Currently exploring **AI**, **Python**, and cutting-edge development practices.
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         <br>React
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
         <br>Next.js
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
         <br>TypeScript
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
         <br>JavaScript
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
         <br>HTML5
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
         <br>CSS3
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
         <br>Tailwind
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
         <br>Node.js
       </td>
-      <td align="center" width="96">
+    </tr>
+    <tr>
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
         <br>Express
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
         <br>Python
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
         <br>MySQL
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
         <br>Firebase
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+        <br>Supabase
+      </td>
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
         <br>Redis
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
       </td>
-      <td align="center" width="96">
+    </tr>
+    <tr>
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
         <br>GitHub
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
         <br>Docker
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
         <br>Linux
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
         <br>VS Code
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
         <br>Figma
       </td>
-      <td align="center" width="96">
+      <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
         <br>Postman
       </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
+        <br>Bun
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
+        <br>React Native
+      </td>
     </tr>
+   
   </table>
 </div>
 
@@ -135,6 +148,17 @@ Currently exploring **AI**, **Python**, and cutting-edge development practices.
       </td>
       <td width="33%" style="padding: 8px;">
         <img src="https://img.shields.io/github/followers/navin0507?label=Followers&style=social&color=4F46E5" alt="GitHub Followers" width="320" />
+      </td>
+    </tr>
+     <tr>
+      <td width="33%" style="padding: 8px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=navin0507&theme=tokyonight&utc_offset=5.5" alt="Productive Time" width="320" />
+      </td>
+      <td width="33%" style="padding: 8px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navin0507&theme=tokyonight" alt="Repos per Language" width="320" />
+      </td>
+      <td width="33%" style="padding: 8px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navin0507&theme=tokyonight" alt="Most Commit Language" width="320" />
       </td>
     </tr>
   </table>
