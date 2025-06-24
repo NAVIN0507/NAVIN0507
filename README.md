@@ -11,7 +11,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200">
+        <img src="/download.jpg" width="200">
       </td>
       <td>
         <pre>
