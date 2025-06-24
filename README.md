@@ -11,7 +11,7 @@
   <table>
     <tr>
       <td>
-        <img src="/download.jpg" width="200">
+        <img src="/download (1).jpg" width="200">
       </td>
       <td>
         <pre>
@@ -20,21 +20,16 @@ class Navin {
   constructor() {
     this.name = "Navin N";
     this.role = "Full Stack Developer";
-    this.stack = ["MERN", "Python", "AI"];
+    this.stack = ["MERN", "NextJs", "Backend"];
     this.passion = "Building scalable solutions";
   }
-  
   code() {
     return "Clean, efficient, and elegant";
-  }
-  
+  } 
   getCurrentFocus() {
     return ["AI/ML", "Cloud Architecture", "System Design"];
   }
 }
-
-const navin = new Developer();
-console.log(navin.code()); // "Clean, efficient, and elegant"
 </code>
         </pre>
       </td>
