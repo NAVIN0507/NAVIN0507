@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=console.log('Hello%2C+World!');const+developer+%3D+'Navin+N';if(passionate)+%7B+code()%3B+%7D;Full+Stack+%7C%7C+MERN+%7C%7C+AI;function+buildAmazing()+%7B+return+true%3B+%7D" alt="Typing SVG" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
-</div>
-
-## 👨‍💻 About This Developer
 
 <div align="center">
   <table>
@@ -23,7 +16,7 @@
       <td>
         <pre>
 <code>
-class Developer {
+class Navin {
   constructor() {
     this.name = "Navin N";
     this.role = "Full Stack Developer";
@@ -195,8 +188,7 @@ Object.keys(currentFocus).forEach(skill => {
   </table>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## 🌐 Let's Connect & Collaborate
 
