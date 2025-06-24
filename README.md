@@ -1,188 +1,266 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Navin+N+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Enthusiast;AI+Agents+Developer" alt="Typing SVG" />
-</div>
 
-<br>
+# 💻 Welcome to My Code Universe
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=console.log('Hello%2C+World!');const+developer+%3D+'Navin+N';if(passionate)+%7B+code()%3B+%7D;Full+Stack+%7C%7C+MERN+%7C%7C+AI;function+buildAmazing()+%7B+return+true%3B+%7D" alt="Typing SVG" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0&animation=twinkling"/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+</div>
+
+## 👨‍💻 About This Developer
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200">
+      </td>
+      <td>
+        <pre>
+<code>
+class Developer {
+  constructor() {
+    this.name = "Navin N";
+    this.role = "Full Stack Developer";
+    this.stack = ["MERN", "Python", "AI"];
+    this.passion = "Building scalable solutions";
+  }
   
-**Passionate Full Stack Developer** building scalable web applications with modern technologies.  
-Currently exploring **AI**, **Python**, and cutting-edge development practices.
+  code() {
+    return "Clean, efficient, and elegant";
+  }
+  
+  getCurrentFocus() {
+    return ["AI/ML", "Cloud Architecture", "System Design"];
+  }
+}
 
-</div>
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-        <br>Next.js
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br>Express
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-        <br>Firebase
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-        <br>Supabase
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br>Redis
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-        <br>Docker
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" />
-        <br>Bun
-      </td>
-      <td align="center" width="120">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React Native" />
-        <br>React Native
-      </td>
-    </tr>
-   
-  </table>
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%" style="padding: 8px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=navin0507&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F46E5&icon_color=4F46E5&text_color=c9d1d9&rank_icon=github&card_width=320" alt="GitHub Stats" width="320" />
-      </td>
-      <td width="33%" style="padding: 8px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navin0507&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4F46E5&text_color=c9d1d9&langs_count=6&card_width=320" alt="Top Languages" width="320" />
-      </td>
-      <td width="33%" style="padding: 8px;">
-        <img src="https://streak-stats.demolab.com?user=navin0507&theme=tokyonight&hide_border=true&background=0d1117&stroke=4F46E5&ring=4F46E5&fire=FF6B6B&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" alt="GitHub Streak" width="320" />
-      </td>
-    </tr>
-    <tr>
-      <td width="33%" style="padding: 8px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=navin0507&theme=tokyonight&bg_color=0d1117&color=4F46E5&line=4F46E5&point=FFFFFF&hide_border=true&area=true&hide_title=true&radius=6" alt="Contribution Graph" width="320" height="120" />
-      </td>
-      <td width="33%" style="padding: 8px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=navin0507&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=5&margin-w=5&margin-h=10" alt="GitHub Trophies" width="320" />
-      </td>
-      <td width="33%" style="padding: 8px;">
-        <img src="https://img.shields.io/github/followers/navin0507?label=Followers&style=social&color=4F46E5" alt="GitHub Followers" width="320" />
-      </td>
-    </tr>
-     <tr>
-      <td width="33%" style="padding: 8px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=navin0507&theme=tokyonight&utc_offset=5.5" alt="Productive Time" width="320" />
-      </td>
-      <td width="33%" style="padding: 8px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navin0507&theme=tokyonight" alt="Repos per Language" width="320" />
-      </td>
-      <td width="33%" style="padding: 8px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navin0507&theme=tokyonight" alt="Most Commit Language" width="320" />
+const navin = new Developer();
+console.log(navin.code()); // "Clean, efficient, and elegant"
+</code>
+        </pre>
       </td>
     </tr>
   </table>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+## 🛠️ Technology Stack
 
-## 🌱 Currently Learning
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+        <br><strong>React</strong>
+        <br><sub>Frontend Library</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
+        <br><strong>Next.js</strong>
+        <br><sub>React Framework</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="TypeScript" />
+        <br><strong>TypeScript</strong>
+        <br><sub>Type Safety</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript" />
+        <br><strong>JavaScript</strong>
+        <br><sub>Core Language</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
+        <br><strong>Tailwind CSS</strong>
+        <br><sub>Styling</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+        <br><strong>Node.js</strong>
+        <br><sub>Runtime</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+        <br><strong>Express.js</strong>
+        <br><sub>Web Framework</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
+        <br><strong>Python</strong>
+        <br><sub>Backend Language</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+        <br><strong>MongoDB</strong>
+        <br><sub>NoSQL Database</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
+        <br><strong>MySQL</strong>
+        <br><sub>SQL Database</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
+        <br><strong>Firebase</strong>
+        <br><sub>BaaS Platform</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
+        <br><strong>Supabase</strong>
+        <br><sub>Backend Service</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
+        <br><strong>Docker</strong>
+        <br><sub>Containerization</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+        <br><strong>Git</strong>
+        <br><sub>Version Control</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
+        <br><strong>VS Code</strong>
+        <br><sub>Code Editor</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
+        <br><strong>Figma</strong>
+        <br><sub>UI/UX Design</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
+        <br><strong>Postman</strong>
+        <br><sub>API Testing</sub>
+      </td>
+      <td align="center" width="120">
+        <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
+        <br><strong>Linux</strong>
+        <br><sub>Operating System</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- ☁️ **Cloud Architecture & DevOps** 
-- 🏗️ **System Design Patterns**
-- 🔧 **Advanced Python Development**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+## 📊 GitHub Analytics
 
-## 📫 Let's Connect
+<div align="center">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=navin0507&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
+  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=navin0507&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navin0507&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Current Focus Areas
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <pre>
+<code>
+// Learning & Exploring
+const currentFocus = {
+  ai_ml: "Building intelligent systems",
+  cloud: "Scalable architecture patterns", 
+  systemDesign: "Robust & efficient solutions",
+  python: "Advanced development techniques"
+};
+
+Object.keys(currentFocus).forEach(skill => {
+  console.log(`📚 ${skill}: ${currentFocus[skill]}`);
+});
+</code>
+        </pre>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+  <a href="mailto:navinofficial2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  </a>
+  <a href="https://navindev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
+  </a>
+  <a href="https://linkedin.com/in/navin-n">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+  </a>
+  <a href="https://twitter.com/navin_dev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=navin0507&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/navin0507?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</div>
+
+## 💡 Developer Facts
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="50%">
+        <pre>
+<code>
+const developerFacts = {
+  workingStyle: "Night owl 🌙",
+  productivity: "Lo-fi beats + Coffee ☕",
+  philosophy: "Clean code is readable code",
+  debugging: "console.log() is my best friend",
+  currentProject: "Training AI to review my PRs"
+};
+
+// Favorite coding quote
+const quote = "Code never lies, comments sometimes do";
+console.log(`💭 ${quote}`);
+</code>
+        </pre>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinofficial2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://navindev.vercel.app)
+### 💻 "Code is poetry written in logic" - Anonymous
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+repo!;Let's+build+something+amazing+%7B%7D;Happy+coding!+%2F%2F+%F0%9F%9A%80" alt="Closing Message" />
 
 </div>
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
+
+</div>
