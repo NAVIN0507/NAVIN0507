@@ -47,96 +47,77 @@ class Navin {
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
         <br><strong>React</strong>
-        <br><sub>Frontend Library</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Next.js" />
         <br><strong>Next.js</strong>
-        <br><sub>React Framework</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=typescript" width="65" height="65" alt="TypeScript" />
         <br><strong>TypeScript</strong>
-        <br><sub>Type Safety</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript" />
         <br><strong>JavaScript</strong>
-        <br><sub>Core Language</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
         <br><strong>Tailwind CSS</strong>
-        <br><sub>Styling</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
         <br><strong>Node.js</strong>
-        <br><sub>Runtime</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
         <br><strong>Express.js</strong>
-        <br><sub>Web Framework</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="Python" />
         <br><strong>Python</strong>
-        <br><sub>Backend Language</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
         <br><strong>MongoDB</strong>
-        <br><sub>NoSQL Database</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" alt="MySQL" />
         <br><strong>MySQL</strong>
-        <br><sub>SQL Database</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=firebase" width="65" height="65" alt="Firebase" />
-        <br><strong>Firebase</strong>
-        <br><sub>BaaS Platform</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
         <br><strong>Supabase</strong>
-        <br><sub>Backend Service</sub>
       </td>
     </tr>
     <tr>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
         <br><strong>Docker</strong>
-        <br><sub>Containerization</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
         <br><strong>Git</strong>
-        <br><sub>Version Control</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
         <br><strong>VS Code</strong>
-        <br><sub>Code Editor</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
         <br><strong>Figma</strong>
-        <br><sub>UI/UX Design</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=postman" width="65" height="65" alt="Postman" />
         <br><strong>Postman</strong>
-        <br><sub>API Testing</sub>
       </td>
       <td align="center" width="120">
         <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
         <br><strong>Linux</strong>
-        <br><sub>Operating System</sub>
       </td>
     </tr>
   </table>
@@ -177,7 +158,7 @@ Object.keys(currentFocus).forEach(skill => {
         </pre>
       </td>
       <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+        <img src="/lab.gif" width="300">
       </td>
     </tr>
   </table>
@@ -230,7 +211,7 @@ console.log(`💭 ${quote}`);
         </pre>
       </td>
       <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+        <img src="/Animation - 1744387176615.gif" width="250">
       </td>
     </tr>
   </table>
@@ -240,14 +221,6 @@ console.log(`💭 ${quote}`);
 
 
 
-<div align="center">
-  
-### 💻 "Code is poetry written in logic" - Anonymous
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+repo!;Let's+build+something+amazing+%7B%7D;Happy+coding!+%2F%2F+%F0%9F%9A%80" alt="Closing Message" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=&fontSize=0&animation=twinkling"/>
 
 </div>
