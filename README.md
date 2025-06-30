@@ -175,12 +175,10 @@ Object.keys(currentFocus).forEach(skill => {
   <a href="https://navindev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
   </a>
-  <a href="https://linkedin.com/in/navin-n">
+  <a href="https://www.linkedin.com/in/navin07/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
-  <a href="https://twitter.com/navin_dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
-  </a>
+ 
 </div>
 
 <div align="center">
