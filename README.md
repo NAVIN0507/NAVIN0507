@@ -2,10 +2,13 @@
 
 # 💻 Welcome to My Code Universe
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=console.log('Hello%2C+World!');const+developer+%3D+'Navin+N';if(passionate)+%7B+code()%3B+%7D;Full+Stack+%7C%7C+MERN+%7C%7C+AI;function+buildAmazing()+%7B+return+true%3B+%7D" alt="Typing SVG" />
-</div>
+# Navin N
 
+![Full Stack Developer](https://img.shields.io/badge/Role-Full%20Stack%20Developer-blue?style=flat-square)
+![MERN Stack](https://img.shields.io/badge/Stack-MERN-green?style=flat-square)
+![AI/ML](https://img.shields.io/badge/Focus-AI%2FML-orange?style=flat-square)
+
+Building scalable solutions and exploring cutting-edge technologies.
 
 <div align="center">
   <table>
@@ -185,40 +188,6 @@ Object.keys(currentFocus).forEach(skill => {
   <img src="https://komarev.com/ghpvc/?username=navin0507&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/navin0507?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
 </div>
-
-## 💡 Developer Facts
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" width="50%">
-        <pre>
-<code>
-const developerFacts = {
-  workingStyle: "Night owl 🌙",
-  productivity: "Lo-fi beats + Coffee ☕",
-  philosophy: "Clean code is readable code",
-  debugging: "console.log() is my best friend",
-  currentProject: "Training AI to review my PRs"
-};
-
-// Favorite coding quote
-const quote = "Code never lies, comments sometimes do";
-console.log(`💭 ${quote}`);
-</code>
-        </pre>
-      </td>
-      <td align="center" width="50%">
-        <img src="/Animation - 1744387176615.gif" width="250">
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
 
 
 </div>
