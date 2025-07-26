@@ -138,34 +138,7 @@ class Navin {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Focus Areas
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <pre>
-<code>
-// Learning & Exploring
-const currentFocus = {
-  ai_ml: "Building intelligent systems",
-  cloud: "Scalable architecture patterns", 
-  systemDesign: "Robust & efficient solutions",
-  python: "Advanced development techniques"
-};
-
-Object.keys(currentFocus).forEach(skill => {
-  console.log(`📚 ${skill}: ${currentFocus[skill]}`);
-});
-</code>
-        </pre>
-      </td>
-      <td align="center" width="50%">
-        <img src="/lab.gif" width="300">
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 
