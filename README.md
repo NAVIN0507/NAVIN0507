@@ -71,10 +71,6 @@ const navin = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navin0507&theme=tokyonight" alt="GitHub Streak" />
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=navin0507&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -91,7 +87,6 @@ const navin = {
 ## 🌟 Featured Projects
 
 <!-- You can add your top repositories here -->
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=navin0507&repo=your-project-name&theme=tokyonight)](https://github.com/navin0507/your-project-name)
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
