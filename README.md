@@ -133,13 +133,6 @@ const navin = {
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
-</div>
-
----
 
 <div align="center">
   
@@ -156,9 +149,7 @@ const navin = {
   </a>
   
   ---
-  
-  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer)
-  
+    
   **⭐️ From [navin0507](https://github.com/navin0507) | Building the future, one commit at a time 🚀**
   
 </div>
