@@ -9,7 +9,7 @@
   ### Full Stack Developer | React & Next.js Specialist
   
   <p>
-    <a href="https://online-resume-navin.vercel.app/" target="_blank">
+    <a href="https://navindev.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
     </a>
     <a href="mailto:navinofficial2005@gmail.com">
@@ -29,18 +29,13 @@
 
 ```typescript
 const navin = {
-    location: "Chennai, India 🇮🇳",
-    currentProject: "Sheartime - Collaborative Time Management Platform",
+    location: "Namakkal, India 🇮🇳",
+
     learning: ["Redux", "LYNX", "Rust"],
     expertise: ["Next.js", "React", "TypeScript", "React Native", "MySQL"],
     passions: ["Building Scalable Solutions", "Clean Code", "System Design"]
 };
 ```
-
-- 🔭 Currently working on **[Sheartime](https://sheartime.vercel.app)** - revolutionizing team collaboration
-- 🌱 Learning advanced **Redux** patterns, **LYNX** framework, and **Rust** systems programming
-- 💡 Focused on creating intuitive UX with high-performance architectures
-- 📫 Reach me at **navinofficial2005@gmail.com**
 
 ---
 
@@ -156,7 +151,7 @@ const navin = {
   
   ### 🤝 Let's Connect
   
-  <a href="https://online-resume-navin.vercel.app/" target="_blank">
+  <a href="https://navindev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/navin-n" target="_blank">
